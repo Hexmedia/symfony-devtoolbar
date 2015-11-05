@@ -1,0 +1,36 @@
+{
+  "name": "chrome-symfony-tools",
+  "version": "0.0.2",
+  "description": "chrome symfony profiler",
+  "main": "index.html",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine-node spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.hexmedia.pl:hexmedia/symfony-devtools.git"
+  },
+  "keywords": [
+    "chrome",
+    "symfony2",
+    "profiler",
+    "integration"
+  ],
+  "author": "Krystian Kuczek <krystian@hexmedia.pl>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "request": "^2.65.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-less": "^3.0.3",
+    "gulp-tsc": "^1.1.4",
+    "gulp-tslint": "^3.5.0",
+    "gulp-typescript": "^2.9.2",
+    "jasmine-node": "^1.14.5"
+  }
+}

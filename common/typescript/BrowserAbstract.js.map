@@ -1,0 +1,1 @@
+{"version":3,"file":"BrowserAbstract.js","sourceRoot":"","sources":["BrowserAbstract.ts"],"names":["BrowserAbstract","BrowserAbstract.constructor","BrowserAbstract.getProfilerUrl"],"mappings":"AAAA,4CAA4C;AAE5C;IAAAA;IAMAC,CAACA;IALGD,wCAAcA,GAAdA;QACIE,MAAMA,CAACA,aAAaA,CAACA;IACzBA,CAACA;IAGLF,sBAACA;AAADA,CAACA,AAND,IAMC"}

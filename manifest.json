@@ -2,7 +2,7 @@
     "name": "Symfony Developer Tools for Chrome",
     "manifest_version": 2,
     "description": "Symfony Developer Tools for Chrome are adding bookmark with Symfony Debug to Chrome Developer Tools",
-    "version": "0.2.0.0",
+    "version": "0.0.0.1",
     "permissions": [
         "tabs",
         "<all_urls>"
